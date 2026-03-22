@@ -1,10 +1,9 @@
 <h2 align="left">Hi 👋! My name is Abhinav Shankar</h2>
 
 ###
-<div> 
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neuralmist&layout=donut&theme=tokyonight" />
 </div>
-###
 
 <img align="right" height="160" src="https://static1.purebreak.com/articles/7/16/22/47/@/639535-clip-1999-charli-xcx-en-mode-steve-j-580x0-1.gif"  />
 
