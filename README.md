@@ -2,7 +2,7 @@
 
 ###
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neuralmist&layout=compact&theme=tokyonight&langs_count=5&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=neuralmist&layout=compact&theme=radical&langs_count=5" />
 </div>
 
 <img align="right" height="160" src="https://static1.purebreak.com/articles/7/16/22/47/@/639535-clip-1999-charli-xcx-en-mode-steve-j-580x0-1.gif"  />
